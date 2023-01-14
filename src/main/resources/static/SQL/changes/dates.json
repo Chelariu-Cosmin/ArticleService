@@ -1,0 +1,15 @@
+{
+  "description" : "Brânzeturile sunt în serii limitate, ne aprovizionăm săptămânal direct la producătorii locali.",
+  "image" : "",
+  "name" : "BRANZETURI VACA REVINO GOURMET, 10 kg",
+  "price" : 100.00,
+  "url" : "",
+  "type":{
+    "id" : 3,
+    "typeName": "Branzeturi"
+  },
+  "unitOfMeasure" :{
+    "id":3,
+    "unitOfMeasure":"kg"
+  }
+}
